@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="left">4dp</dimen>
+
+    <dimen name="corner_radius_cardview">4dp</dimen>
+    <dimen name="nombre_mascota_cardview">20sp</dimen>
+    <dimen name="elevation_actionbar">4dp</dimen>
+</resources>
