@@ -3,6 +3,17 @@
     <string name="m_nombre">Pichichen</string>
     <string name="descripcion">Algun Pichicho</string>
     <string name="favorito">favorito</string>
+    <string name="mContacto">Contacto</string>
+    <string name="mAcerca_de">Acerca de</string>
+    <string name="TextoAcercaDe">Acerca de</string>
+    <string name="TextoNombre">Nombre</string>
+    <string name="TextoCorreo">Correo</string>
+    <string name="TextoMensaje">Mensaje</string>
+    <string name="BtnEnviar">Enviar</string>
 
+    <string name="TextoDesarrollador">RNeira es integrante del grupo desarrolador 5Bytes para el Programa BiT de CUTI en asociación con
+    INEFOP.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>

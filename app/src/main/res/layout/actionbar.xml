@@ -29,7 +29,6 @@
             android:layout_width="38sp"
             android:layout_height="38sp"
             android:background="@drawable/estrella"
-            android:layout_marginLeft="220sp"
             android:contentDescription="@string/favorito"
             android:onClick="irActivityFavoritos"/>
     </LinearLayout>

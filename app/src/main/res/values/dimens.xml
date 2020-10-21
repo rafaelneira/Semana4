@@ -7,4 +7,9 @@
     <dimen name="corner_radius_cardview">4dp</dimen>
     <dimen name="nombre_mascota_cardview">20sp</dimen>
     <dimen name="elevation_actionbar">4dp</dimen>
+
+    <dimen name="tvNombreContacto">12sp</dimen>
+    <dimen name="etContacto">10dp</dimen>
+
+    <dimen name="tvAcercade">18sp</dimen>
 </resources>

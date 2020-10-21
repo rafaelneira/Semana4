@@ -1,12 +1,12 @@
 package com.example.appmacostas;
 
-import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.appmacostas.adaptadores.MascotaAdaptador;
 
 import java.util.ArrayList;
 
@@ -44,8 +44,5 @@ public class Activity_Favoritos extends AppCompatActivity {
         mascotas.add(new Mascota("Nichichen",5, R.drawable.perro1,true));
 
     }
-    public void irActivityFavoritos (View view){
-        Intent intent = new Intent(this, Activity_Favoritos.class);
-        startActivity(intent);
-    }
+
 }
