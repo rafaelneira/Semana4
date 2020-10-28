@@ -1,11 +1,11 @@
-package com.example.appmacostas.db;
+package com.example.appmacostas.model;
 
 import android.content.ContentValues;
 import android.content.Context;
-import android.database.sqlite.SQLiteDatabase;
 
-import com.example.appmacostas.Mascota;
 import com.example.appmacostas.R;
+import com.example.appmacostas.db.BaseDatos;
+import com.example.appmacostas.db.ConstantesBaseDatos;
 
 import java.util.ArrayList;
 

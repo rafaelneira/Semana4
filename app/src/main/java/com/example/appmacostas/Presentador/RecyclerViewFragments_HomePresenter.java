@@ -2,9 +2,9 @@ package com.example.appmacostas.Presentador;
 
 import android.content.Context;
 
-import com.example.appmacostas.IRecyclerViewFragment_Home;
-import com.example.appmacostas.Mascota;
-import com.example.appmacostas.db.ConstructorMascotas;
+import com.example.appmacostas.vista.IRecyclerViewFragment_Home;
+import com.example.appmacostas.model.Mascota;
+import com.example.appmacostas.model.ConstructorMascotas;
 
 import java.util.ArrayList;
 

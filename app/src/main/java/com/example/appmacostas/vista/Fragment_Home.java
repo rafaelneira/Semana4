@@ -1,4 +1,4 @@
-package com.example.appmacostas;
+package com.example.appmacostas.vista;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -13,7 +13,9 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.appmacostas.Presentador.IRecyclerViewFragment_HomePresenter;
 import com.example.appmacostas.Presentador.RecyclerViewFragments_HomePresenter;
+import com.example.appmacostas.R;
 import com.example.appmacostas.adaptadores.MascotaAdaptador;
+import com.example.appmacostas.model.Mascota;
 
 import java.util.ArrayList;
 

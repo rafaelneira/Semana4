@@ -1,6 +1,7 @@
-package com.example.appmacostas;
+package com.example.appmacostas.vista;
 
 import com.example.appmacostas.adaptadores.MascotaAdaptador;
+import com.example.appmacostas.model.Mascota;
 
 import java.util.ArrayList;
 

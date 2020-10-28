@@ -1,16 +1,14 @@
 package com.example.appmacostas.db;
 
-import android.content.ContentResolver;
 import android.content.ContentValues;
 import android.content.Context;
-import android.database.ContentObservable;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
 import androidx.annotation.Nullable;
 
-import com.example.appmacostas.Mascota;
+import com.example.appmacostas.model.Mascota;
 
 import java.util.ArrayList;
 

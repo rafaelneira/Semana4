@@ -12,6 +12,8 @@ import androidx.appcompat.widget.Toolbar;
 import androidx.fragment.app.Fragment;
 import androidx.viewpager.widget.ViewPager;
 import com.example.appmacostas.adaptadores.PageAdapter;
+import com.example.appmacostas.vista.Fragment_Home;
+import com.example.appmacostas.vista.PerfilFragment;
 import com.google.android.material.tabs.TabLayout;
 import java.util.ArrayList;
 import java.util.Objects;

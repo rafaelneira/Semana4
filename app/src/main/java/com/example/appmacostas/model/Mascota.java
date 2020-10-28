@@ -1,4 +1,4 @@
-package com.example.appmacostas;
+package com.example.appmacostas.model;
 
 public class Mascota {
 
