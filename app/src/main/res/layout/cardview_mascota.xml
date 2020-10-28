@@ -48,6 +48,13 @@
                         android:layout_height="38sp"
                         android:background="@drawable/hueso"
                         android:contentDescription="@string/favorito" />
+                    <TextView
+                        android:id="@+id/tvLike"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="@dimen/nombre_mascota_cardview"
+                        android:text="@string/pLike"
+                        />
              </LinearLayout>
         </LinearLayout>
     </LinearLayout>

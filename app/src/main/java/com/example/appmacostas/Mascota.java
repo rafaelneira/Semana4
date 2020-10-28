@@ -1,32 +1,39 @@
 package com.example.appmacostas;
 
 public class Mascota {
-    private String Nombre;
-    private int Raiting;
-    private int Foto;
-    private boolean Favorito;
 
-    public Mascota(String nombre, int raiting, int foto, boolean favorito) {
+
+    private int id;
+    private String Nombre;
+    private int Foto;
+    private int Favorito;
+
+    public Mascota() {
+    }
+
+    public Mascota(int id, String nombre, int foto, int favorito) {
         Nombre = nombre;
-        Raiting = raiting;
         Foto = foto;
         Favorito = favorito;
     }
 
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
+    public int getFavorito() {
+        return Favorito;
+    }
     public String getNombre() {
         return Nombre;
     }
 
     public void setNombre(String nombre) {
         Nombre = nombre;
-    }
-
-    public int getRaiting() {
-        return Raiting;
-    }
-
-    public void setRaiting(int raiting) {
-        Raiting = raiting;
     }
 
     public int getFoto() {
@@ -37,11 +44,9 @@ public class Mascota {
         Foto = foto;
     }
 
-    public boolean isFavorito() {
-        return Favorito;
-    }
 
-    public void setFavorito(boolean favorito) {
+
+    public void setFavorito(int favorito) {
         Favorito = favorito;
     }
 }

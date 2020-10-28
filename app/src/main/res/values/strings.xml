@@ -10,10 +10,9 @@
     <string name="TextoCorreo">Correo</string>
     <string name="TextoMensaje">Mensaje</string>
     <string name="BtnEnviar">Enviar</string>
-
+    <string name="pLike">0 Likes</string>
+    pLike
     <string name="TextoDesarrollador">RNeira es integrante del grupo desarrolador 5Bytes para el Programa BiT de CUTI en asociación con
     INEFOP.</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>
